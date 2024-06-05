@@ -2,7 +2,9 @@ const data = [
   {
     id: 1,
     date: "2024-06-04",
-    author: "Baurma",
+    likes: 14266,
+    comments: 51,
+    author: "Baurdaq",
     title: "How to Sneak Your Phone into Class Like a Pro",
     image_url:
       "https://get.wallhere.com/photo/woods-gorge-bay-rocks-666808.jpg",
@@ -12,6 +14,8 @@ const data = [
   {
     id: 2,
     date: "2024-06-03",
+    likes: 2112,
+    comments: 1,
     author: "Daulet Issatayev",
     title: "10 Reasons Why Avocado Toast is the Secret to Happiness",
     image_url:
@@ -22,6 +26,8 @@ const data = [
   {
     id: 3,
     date: "2024-06-02",
+    likes: 982,
+    comments: 5,
     author: "Madina ",
     title: "Memes That Will Make Your Mom Say 'What?'",
     image_url:
@@ -32,6 +38,8 @@ const data = [
   {
     id: 4,
     date: "2024-06-01",
+    likes: 132,
+    comments: 0,
     author: "Alibek Seitov",
     title: "Why Homework is Basically DLC for School",
     image_url:
@@ -42,6 +50,8 @@ const data = [
   {
     id: 5,
     date: "2024-05-31",
+    likes: 5,
+    comments: 3,
     author: "Uldana",
     title: "The Ultimate Guide to Going Viral on TikTok",
     image_url:
